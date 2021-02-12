@@ -24,7 +24,7 @@ Atuar como Desenvolvedor Web Full Stack, Desenvolvedor Web Backend e Analista de
 
 ### BACKEND
 
-Asp .Net (Core e MVC), Node.JS (JavaScript e TypeScript).
+Asp .Net (Core e MVC) com C#, Asp .Net (Core e MVC) com F#, Node.JS (JavaScript e TypeScript).
 
 ### FRONTEND
 
