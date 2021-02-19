@@ -1,6 +1,6 @@
 # PEDRO OCTÁVIO
 
-## DESENVOLVEDOR WEB
+## ENGENHEIRO DE SOFTWARE
 
 ## CONTATO
 
@@ -18,17 +18,17 @@ Atuo como Desenvolvedor Web, programando e dando sustentação a sistemas, arqui
 
 ## OBJETIVO
 
-Atuar como Desenvolvedor Web Full Stack, Desenvolvedor Web Backend e Analista de Sistemas.
+Atuar como Engenheiro de Software Backend/Full Stack.
 
 ## HABILIDADES
 
 ### BACKEND
 
-Asp .Net (Core e MVC) com C#, Asp .Net (Core e MVC) com F#, Node.JS (JavaScript e TypeScript).
+Asp .Net (Core e MVC) com C# ou F#, Node.JS com JavaScript ou TypeScript.
 
 ### FRONTEND
 
-Razor com Asp .Net (Core e MVC), Blazor com Asp .Net (Core e MVC), Angular (1 e 2+), frontend clássico com HTML/CSS/JavaScript/JQuery.
+Asp .Net (Core e MVC) com Razor ou Blazor, Angular (1 e 2+), Frontend clássico com HTML-5/CSS-3/JavaScript/JQuery.
 
 ### BANCO DE DADOS
 
@@ -40,14 +40,14 @@ Docker.
 
 ## EXPERIENCIA PROFISSIONAL
 
-TATA CONSULTANCY SERVICES – Analista de Sistemas – 08/2020 a Atualmente.
+### TATA CONSULTANCY SERVICES – Engenheiro de Software Júnior – 08/2020 a Atualmente.
 
-Atuação como Analista de Sistemas, programando e dando sustentação a projetos com o Asp .Net Core e Asp .Net MVC, também desenvolvendo Dlls com C#, com Frontend em Angular 2+, junto de banco de dados SqlServer e desenvolvendo em Java com as ferramentas Eclipse e  Rule Design. 
+Atuação como Engenheiro de Software, desenvolvendo e dando sustentação a projetos com o Asp .Net Core e Asp .Net MVC, também desenvolvendo Dlls com C#, com Frontend em Angular 2+, junto de banco de dados SqlServer e desenvolvendo em Java com as ferramentas Eclipse e  Rule Design. 
 
-GENERAL CLAIMS – Analista de Sistemas – 03/2020 a 08/2020.
+### GENERAL CLAIMS – Engenheiro de Software Júnior – 03/2020 a 08/2020.
 
-Atuação como Analista de Sistemas, desenvolvendo e dando sustentação a projetos baseados no Asp .Net MVC, junto de soluções Frontend com Angular e banco de dados SqlServer.
+Atuação como Engenheiro de Software, desenvolvendo e dando sustentação a projetos baseados no Asp .Net MVC, junto de soluções Frontend com Angular e banco de dados SqlServer.
 
-INDIGOSOFT – Analista de Sistemas – 08/2019 a 03/2020.
+### INDIGOSOFT – Engenheiro de Software Aprendiz – 08/2019 a 03/2020.
 
-Atuação como Analista de Sistemas, desenvolvendo e dando suporte a projetos baseados no Asp .Net MVC, também desenvolvendo soluções Frontend com HTML + CSS + JavaScript + JQuery, com banco de dados SqlServer.
+Atuação como Engenheiro de Software, desenvolvendo e dando suporte a projetos baseados no Asp .Net MVC, também desenvolvendo soluções Frontend com HTML + CSS + JavaScript + JQuery, com banco de dados SqlServer.
